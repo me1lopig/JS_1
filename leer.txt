@@ -1,0 +1,2 @@
+los programas se ejecutan desde consola 
+node nombrePrograma.js
