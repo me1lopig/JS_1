@@ -1,5 +1,5 @@
 // algunos ejemplos con metodos de textos
-var texto="Hola me gusta programas en JavaScript";
+var texto="Hola me gusta programar en JavaScript";
 console.log(texto);
 var mayusculas=texto.toLocaleUpperCase();
 var minusculas=texto.toLocaleLowerCase();
